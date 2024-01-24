@@ -34,7 +34,7 @@ public final class MineAcademyPlugin extends SimplePlugin {
 		/*
 		 * This prints out 3 Knock knock!
 		 */
-		System.out.println((2 + 1) + knockMessage);
+		System.out.println((2 + 1) + " " + knockMessage);
 
 		//getLogger().info("Knock knock, the plugin has been started.");
 	}
